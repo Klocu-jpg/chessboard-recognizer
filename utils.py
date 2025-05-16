@@ -1,3 +1,4 @@
+from chessboardRecognizer.constants import *
 import re
 
 def compressed_fen(fen):

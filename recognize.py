@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.chessboard_finder import *
+from chessboardRecognizer.chessboard_image import *
+from chessboardRecognizer.utils import *
 import sys
 from glob import glob
 from io import BytesIO

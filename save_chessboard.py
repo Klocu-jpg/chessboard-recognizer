@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.chessboard_image import *
+from chessboardRecognizer.utils import *
 import sys
 import re
 import shutil

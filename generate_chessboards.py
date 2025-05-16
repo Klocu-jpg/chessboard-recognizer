@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.utils import *
 import os
 from urllib import request
 from io import BytesIO

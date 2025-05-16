@@ -1,3 +1,5 @@
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.utils import *
 import numpy as np
 import PIL.Image
 

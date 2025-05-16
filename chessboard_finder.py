@@ -11,7 +11,8 @@
 
 # optional arguments:
 #   -h, --help  show this help message and exit
-
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.utils import *
 import numpy as np
 import PIL.Image
 

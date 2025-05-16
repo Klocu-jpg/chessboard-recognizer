@@ -2,7 +2,8 @@
 
 # Generate tile images for all chessboard images in input folder
 # Used for building training datasets
-
+from chessboardRecognizer.constants import *
+from chessboardRecognizer.utils import *
 import os
 from glob import glob
 import argparse
